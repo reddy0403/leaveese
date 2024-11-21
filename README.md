@@ -1,0 +1,1 @@
+LeaveEase centers around creating an all-encompassing leave management website  tailored for the ease of employees and faculty members. ![image](https://github.com/user-attachments/assets/ca1113c8-1618-4f04-8566-c7e9cfc07e0e)
